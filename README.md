@@ -4,9 +4,9 @@ This repository documents my learning progress and hands-on implementations as p
 
 ---
 
-## 🧠 Key Concepts Learned
+## Key Concepts Learned
 
-### 🔢 Linear Algebra for ML
+### Linear Algebra for ML
 - Vector and matrix operations
 - Dot product and matrix multiplication
 - Norms, orthogonality
@@ -15,7 +15,7 @@ This repository documents my learning progress and hands-on implementations as p
 
 ---
 
-### 🎯 Classification Techniques
+### Classification Techniques
 - Binary and multiclass classification
 - Logistic Regression
 - Linear Discriminant Analysis (LDA)
@@ -25,7 +25,7 @@ This repository documents my learning progress and hands-on implementations as p
 
 ---
 
-### 🌲 Tree-Based Models
+### Tree-Based Models
 - Decision Trees
 - Random Forests
 - Feature importance and hierarchy
@@ -33,14 +33,14 @@ This repository documents my learning progress and hands-on implementations as p
 
 ---
 
-### ✴️ Support Vector Machines (SVM)
+### Support Vector Machines (SVM)
 - Linear and non-linear classifiers
 - Soft margin optimization
 - Kernel trick for high-dimensional separation
 
 ---
 
-## 🤖 Neural Networks and Deep Learning
+## Neural Networks and Deep Learning
 
 - Basics of forward and backward propagation
 - Activation functions and weight updates
@@ -50,7 +50,7 @@ This repository documents my learning progress and hands-on implementations as p
 
 ---
 
-### 🧠 Architectures Explored
+### Architectures Explored
 - **Feedforward Neural Networks** – Multi-layer dense models  
 - **Convolutional Neural Networks (CNN)** – Local filters, pooling, and spatial pattern recognition  
 - **Recurrent Neural Networks (RNN)** – Sequence learning with GRU-based memory cells  
@@ -63,18 +63,11 @@ This repository documents my learning progress and hands-on implementations as p
 ### 1️⃣ MNIST Digit Classifier
 - Trained and compared NN, CNN, and RNN architectures
 - Evaluated performance using accuracy, loss, and AUC
-- Visualized data with PCA and t-SNE
 - Plotted ROC curves and model learning curves
-
-📂 [`02_mnist-digit-classifier/`](./02_mnist-digit-classifier)
-
 ---
 
 ### 2️⃣ Wine Dataset Classifier
 - Explored classification with classical ML models (SVM, LDA, QDA, Naive Bayes, KNN)
 - Applied PCA for visualization and dimensionality reduction
 - Evaluated using accuracy and confusion matrix
-
-📂 [`01_wine-classifier/`](./01_wine-classifier)
-
 ---
