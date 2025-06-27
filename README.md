@@ -1,4 +1,4 @@
-# season-of-code-2025
+# Seasons-of-code-2025
 
 This repository documents my learning progress and hands-on implementations as part of the **SOC'25**. 
 
