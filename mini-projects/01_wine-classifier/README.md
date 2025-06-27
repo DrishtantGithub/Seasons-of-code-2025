@@ -1,6 +1,6 @@
 # Wine Dataset Classifier
 
-This mini-project is the **first assignment** completed as part of the **Seasons of Code Learning Program**. It uses the classic **Wine dataset** from the `scikit-learn` library to demonstrate multiple classification techniques and analysis tools learned so far.
+This mini-project is the **first assignment** completed as part of the **Seasons of Code 2025**. It uses the classic **Wine dataset** from the `scikit-learn` library to demonstrate multiple classification techniques and analysis tools learned so far.
 
 ---
 
